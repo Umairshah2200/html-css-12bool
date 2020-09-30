@@ -3,7 +3,7 @@
   padding: 0;
   box-sizing: border-box;
 }
-[class*="col-"] {
+*[class*="col-"] {
   height: 180px;
   border: 1px solid black;
   background-color: pink;
